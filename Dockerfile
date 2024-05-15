@@ -1,1 +1,1 @@
-FROM nginx:stable
+FROM nginx:stable@sha256:192e88a0053c178683ca139b9d9a2afb0ad986d171fae491949fe10970dd9da9

@@ -1,0 +1,10 @@
+## Dockerfile
+
+### Docker Image: nginx:stable
+| Severity | Count |
+|----------|-------|
+| high | 35 |
+| medium | 46 |
+| critical | 6 |
+| low | 6 |
+| Unknown | 1 |
